@@ -1,8 +1,8 @@
 {
-  "name": "uglify-js",
+  "name": "uglify-js-temp-es2015",
   "description": "JavaScript parser, mangler/compressor and beautifier toolkit",
   "homepage": "http://lisperator.net/uglifyjs",
-  "author": "Mihai Bazon <mihai.bazon@gmail.com> (http://lisperator.net/)",
+  "author": "max.heiber@gmail.com",
   "license": "BSD-2-Clause",
   "version": "2.8.15",
   "engines": {
